@@ -1,0 +1,6 @@
+{
+  "name": "LMS Madrasah Aliyah - Kurikulum Berbasis Cinta",
+  "description": "Learning Management System Madrasah Aliyah dengan pendekatan Kurikulum Berbasis Cinta (KBC) dan Pembelajaran Mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
